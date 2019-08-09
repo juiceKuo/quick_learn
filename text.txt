@@ -1,0 +1,4 @@
+Hello, I'm Charlie.
+
+I come from Tainan.
+I love the python.
